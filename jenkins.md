@@ -28,4 +28,22 @@ Jenkins is a widely used tool in DevOps because it facilitates collaboration bet
 5. Azure DevOps: Microsoft's Azure DevOps provides a suite of development collaboration tools, including CI/CD functionality. Azure Pipelines, part of Azure DevOps, supports a wide range of languages, platforms, and cloud providers.
 
 
-# Adding a webhook test
+# Creating jenkins task
+![Alt text](imgs-jenkins/4.png)![Alt text](imgs-jenkins/5.png)![Alt text](imgs-jenkins/6.png)![Alt text](imgs-jenkins/7.png)
+
+# Chaining 2 tasks
+![Alt text](imgs-jenkins/8.png)
+
+# Connecting task to github repo using SSH
+![Alt text](imgs-jenkins/9.1.png)
+![Alt text](imgs-jenkins/9.2.png)
+![Alt text](imgs-jenkins/9.3.png)
+![Alt text](imgs-jenkins/9.png)
+![Alt text](imgs-jenkins/9.4.png)
+![Alt text](imgs-jenkins/9.5.png)
+# Setting up webhook on github
+![Alt text](imgs-jenkins/10.png)
+![Alt text](imgs-jenkins/11.png)
+![Alt text](imgs-jenkins/12.png)
+# After a push it should run the tests automatically like so:
+![Alt text](imgs-jenkins/13.png)
