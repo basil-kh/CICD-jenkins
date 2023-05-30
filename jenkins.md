@@ -8,7 +8,7 @@ The tool supports plugins, which means its functionality can be extended for alm
 Jenkins is a widely used tool in DevOps because it facilitates collaboration between developers and operations teams, making the software development process more efficient and standardized.
 # Jenkins diagram
 
-![Alt text](imgs-jenkins/1-diagram.png)
+![Alt text](imgs-jenkins/2.basil-jenkins.pem%20-%20SSHl.png)
 
 1. Code is pushed via SSH to github
 2. A webhook trigger alerts Jenkins and then the code is cloned from github onto Jenkins
