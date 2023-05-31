@@ -51,6 +51,4 @@ Jenkins is a widely used tool in DevOps because it facilitates collaboration bet
 
 # Triggering from dev branch
 
-test
-
-- If you restart the jenkins server you should make a change to your webhook ip configuration.
+test2
