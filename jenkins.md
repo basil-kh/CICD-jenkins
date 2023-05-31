@@ -48,4 +48,9 @@ Jenkins is a widely used tool in DevOps because it facilitates collaboration bet
 # After a push it should run the tests automatically like so:
 ![Alt text](imgs-jenkins/13.png)
 
+
+# Triggering from dev branch
+
+test
+
 - If you restart the jenkins server you should make a change to your webhook ip configuration.
